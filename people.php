@@ -230,7 +230,7 @@ function closecredits() {
           if(stream!="mtech"&&inductionflag&&loopcounter>=noofyears-3){
             loopcounter++;
           }
-          if(stream!="mtech"&&!inductionflag&&loopcounter>=noofyears-2){
+          else if(stream!="mtech"&&!inductionflag&&loopcounter>=noofyears-2){
             loopcounter++;
           }
           else if(stream=="mtech"&&inductionflag&&loopcounter>=noofyears-2){
