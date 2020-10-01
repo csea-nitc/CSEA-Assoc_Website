@@ -7,7 +7,7 @@ The repository for CSEA assoc website built using Firebase for backend restricti
 
 [Link to site](http://assoc.cse.nitc.ac.in/)
 
-## Documentation
+## Document
 The documentation can be viewed through the @nitc.ac.in authentication.
 
 [Link to documentation](https://drive.google.com/file/d/1dC7aHEUDX73W1BRjAnVJF2K4OyXqB1tJ/view?usp=sharing)  
