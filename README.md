@@ -4,6 +4,7 @@
 # Assoc-Website
 
 The repository for CSEA assoc website built using Firebase for backend restricting access for datebase changes using the Firebase admin console written in Python.
+The Poultry Science Association website is clean and minimalistic with just the right touch of color. Their homepage features recent news and resources to download as well as custom icons to guide you through the membership process.
 
 [Link to site](http://assoc.cse.nitc.ac.in/)
 
